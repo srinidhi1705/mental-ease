@@ -1,0 +1,18 @@
+# Ignore node modules
+node_modules/
+SIH/node_modules/
+
+# Ignore AI / ML models
+models/
+SIH/backend/models/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+venv/
+
+# Cache
+.cache/
